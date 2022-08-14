@@ -10,3 +10,6 @@
 
 ## Cultist
 ![](./Assets/Fading%20God.png)
+
+## PC Startup
+![](./Assets/PC.gif)
