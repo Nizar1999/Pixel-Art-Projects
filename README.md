@@ -7,3 +7,6 @@
 
 ### Doomslayer & Weapons
 ![](./Assets/DoomGuy.png)
+
+## Cultist
+![](./Assets/Fading%20God.png)
