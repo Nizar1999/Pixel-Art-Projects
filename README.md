@@ -1,3 +1,5 @@
+![Tech](https://img.shields.io/badge/-Aseprite-grey?style=for-the-badge&logo=aseprite&logoColor=white) 
+
 # Pixel Art Projects
  A Collection of Pixel Art Projects I've Worked on
 
